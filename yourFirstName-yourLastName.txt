@@ -1,1 +1,59 @@
-asdasdss
+ 1. What is Semantic HTML? 
+How to make readable for users and SEO
+    2. What is HTML used for? 
+For the text for page
+    3. What is an attribute and where do we put it? 
+	We put it inside element like class, and it's a modifier for of an HTML element  
+    4. What is the h1 tag used for? How many times should I use it on a page?
+For the page title and once on each page.
+    5. Name two tags that have required attributes
+<input> <select>
+    6. What do we put in the head of our HTML document? 
+html
+    7. What is an id? 
+it's more specific than class and it overwrite all elements and classes.
+    8. What elements can I add an id to? 
+<Section>, <p>, <img>
+    9. How many times can I use the same id on a page? 
+As much as you can but has to have different name for each id
+    10. What is a class? it's an attribute which specifies one or more class names of an HTML
+    11. What elements can I add a class to? 
+    12. How many times can I use the same class on a page? as much as I can
+    13. How do I get my link to open in a new tab?<a href=">
+    14. What is the alt attribute used for? specify alternative text and to clarify content in images
+    15. How do I reference an id?#
+    16. What is the difference between a section and a div?both of them for sectioning,however section is used for content and div for styling   
+    17. What is CSS used for? for styling 
+    18. How to we select an element? Example - every h2 on the page h2{}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one class can use for all the element however, id only for unique thing on the page or very specific 
+    20. How do we select classes in CSS?like .class
+    21. How do we select a p element with a single class of “human””?give them same class name for example <p class="human"></p> <a class="human"></a>
+    22. What is a parent child selector? When would this be useful? universal when I want to select everything on the page
+    23. How do you select all links within a div with the class of sidebar?give them same class name"links" all of them like links and write it in css like :.links
+    24. What is a pseudo selector?A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s). For example, :hover can be used to change a button's color when the user's pointer hovers over it.
+    25. What do we use the change the spacing between lines?line-height
+    26. What do we use to change the spacing between letters? word-spacing:
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?  text-transform: uppercase; or lowercase or capitalize
+
+    28. How do I add a 1px border around my div that is dotted and black?
+    29. How do I select everything on the page? *
+    30. How do I write a comment in CSS?/**
+    31. How do I find out what file I am in, when I am using the command line? git status
+    32. Using the command line - how do I see a list of files/folders in my current folder?ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this? rm . because you can not get undo what you delete it.
+    34. Why should I use version control? It have a way to track the previous versions
+    35. How often should I commit to github?As long as I add 
+    36. What is the command we would use to push our repo up to github? git push
+    37. Walk me through Lambda's git flow. 
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely? 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the fix for the box model? 
+
+
+
+   --> 
